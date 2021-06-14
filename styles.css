@@ -24,10 +24,12 @@
 #menu::before {
     left: 0;
     top: -20px;
+    background-color: darkblue;
 }
 
 #menu::after {
     left: 0;
     top: 20px;
+    background-color: red;
 }
 
